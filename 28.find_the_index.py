@@ -13,7 +13,7 @@ class Solution(object):
                     return haystack_index
         return -1
                     
-   
+# return haystack.find(needle)
         
         
         
